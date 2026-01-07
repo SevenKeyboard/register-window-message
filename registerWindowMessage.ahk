@@ -1,4 +1,5 @@
-﻿;==============================================================
+﻿#Requires AutoHotkey v2.0.0+
+;==============================================================
 ; registerWindowMessage — Gets the message identifier for a registered window message
 ;
 ; GitHub: https://github.com/SevenKeyboard/register-window-message
